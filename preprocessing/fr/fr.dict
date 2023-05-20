@@ -4235,7 +4235,6 @@ asymétrie aa ss ii mm ai tt rr ii
 asymétrique aa ss ii mm ai tt rr ii kk
 asymétriques aa ss ii mm ai tt rr ii kk
 at aa
-at&t aa tt ei ei tt
 ata aa tt aa
 atakou aa tt aa kk ou
 atal aa tt aa ll
@@ -5179,7 +5178,6 @@ aïeux aa yy eu
 aïn aa ii nn
 aït aa ii tt
 b bb ai
-b. bb ei
 ba bb aa
 baa bb aa aa
 baachir bb aa aa ch ii rr
@@ -8381,6 +8379,7 @@ bûcherons bb uu ch ee rr on
 bûchers bb uu ch ei
 c ss ai
 c' ss
+c'est ss ai
 c'est-à-dire ss ai tt aa dd ii rr
 ca kk aa
 cab kk aa bb
@@ -11149,7 +11148,6 @@ cma ss ei ai mm aa
 cme ss ei ai mm eu
 cmf ss ei ai mm ai ff
 cmp ss ei ai mm pp ei
-cm³ ss an tt ii mm ai tt kk uu bb
 cnaf kk nn aa ff
 cnam kk nn aa mm
 cnamts ss ei ai nn aa ai mm tt ei ai ss
@@ -20694,7 +20692,6 @@ et ai
 eta ei tt aa
 etam ei tt aa mm
 etc ei tt ss ei tt ei rr aa
-etc. ai tt ss ai tt ai rr aa
 etchegoyen ai tt ch ei gg oo yy ai nn
 ethnico ai tt nn ii kk au
 ethnie ai tt nn ii
@@ -23176,7 +23173,6 @@ fple ai ff pp ei ai ll eu
 fplp ai ff pp ei ai ll pp ei
 fpoe ff pp au ei
 fpr ai ff pp ei ai rr
-fpÖ ai ff pp ei oo
 fr ai ff ai rr
 fra ff rr aa
 frac ff rr aa kk
@@ -31435,7 +31431,6 @@ km kk mm
 kmart kk mm aa rr tt
 kml kk aa ai mm ai ll
 kmt kk aa ai mm tt ei
-km² kk ii ll oo mm ai tt rr kk aa rr ei
 knafo kk nn aa ff au
 knaven kk nn aa vv ai nn
 knesset kk nn ai ss ai tt
@@ -37029,8 +37024,6 @@ mythomane mm ii tt oo mm aa nn
 mythos mm aa yy tt oo ss
 myung mm yy uu nn gg
 mzoudi mm zz ou dd ii
-m² mm ai tt rr kk aa rr ei
-m³ mm ai tt rr kk uu bb
 mâche mm aa ch
 mâcher mm aa ch ei
 mâchoire mm aa ch ww aa rr
@@ -38514,8 +38507,6 @@ nyori nn yy au rr ii
 nyrup nn ii rr uu pp
 nyunt nn yy uu nn tt
 nzuzi ai nn zz uu zz ii
-n° nn uu mm ei rr oo
-nº nn uu mm ei rr oo
 nâgârjuna nn aa gg aa rr jj uu nn aa
 nègre nn ai gg rr
 nègres nn ai gg rr
@@ -52776,7 +52767,6 @@ sprints ss pp rr ii nn tt
 sprite ss pp rr ii tt
 sps ai ss pp ei ai ss
 spurs ss pp uu rr ss
-spÖ ai ss pp ei oo
 spécial ss pp ai ss yy aa ll
 spéciale ss pp ai ss yy aa ll
 spécialement ss pp ai ss yy aa ll ee mm an
@@ -59187,17 +59177,7 @@ x kk ss
 xanana kk ss aa nn aa nn aa
 xavier gg zz aa vv yy ei
 xavière gg zz aa vv yy ai rr
-xbox kk ss bb oo kk ss
-xe kk ss ei
-xenakis kk ss ei nn aa kk ii ss
 xerox gg zz ei rr oo kk ss
-xian kk ss ii aa nn
-xiao kk ss ii aa au
-xinjiang kk ss ii nn jj yy an gg
-xirimbimbi kk ss ii rr ii mm bb ii mm bb ii
-xsara kk ss ss aa rr aa
-xstrata kk ss ss tt rr aa tt aa
-xu kk ss uu
 xénophobe kk ss ai nn oo ff oo bb
 xénophobes kk ss ai nn oo ff oo bb
 xénophobie gg zz ai nn oo ff oo bb ii
@@ -59474,10 +59454,6 @@ zerr zz ai rr
 zeste zz ai ss tt
 zeta zz ei tt aa
 zfu zz ai dd ai ff uu
-zhao zz aa oo
-zhor zz oo rr
-zhoukan zz ou kk an
-zhu zz uu
 zia zz yy aa
 ziad zz yy aa dd
 ziani zz yy aa nn ii
@@ -59579,47 +59555,6 @@ zéro zz ai rr au
 zéros zz ai rr au
 zéroual zz ei rr ww aa ll
 zülle zz uu ll
-Âge aa jj
-Échos ei kk au
-Éclair ei kk ll ai rr
-École ei kk oo ll
-Économie ei kk oo nn oo mm ii
-Écritures ei kk rr ii tt uu rr
-Édouard ei dd ou aa rr
-Éducation ei dd uu kk aa ss yy on
-Église ei gg ll ii zz
-Éguilles ei gg ii yy
-Ékaterinbourg ei kk aa tt ee rr in bb ou rr
-Élie ei ll ii
-Élim ei ll ii mm
-Élisabethville ei ll ii zz aa bb ai tt vv ii ll
-Élysées ei ll ii zz ei
-Émilienne ei mm ii ll yy ai nn
-Émirat ei mm ii rr aa
-Émirats ei mm ii rr aa
-Équatoriale ei kk ww aa tt oo rr yy aa ll
-Équestre ei kk ai ss tt rr
-Équipe ei kk ii pp
-Érignac ei rr ii nn yy aa kk
-Érythrée ei rr ii tt rr ei
-Érythréens ei rr ii tt rr ei in
-État ei tt aa
-États ei tt aa
-Éthiopie ei tt yy oo pp ii
-Éthiopiens ei tt yy oo pp yy in
-Étienne ei tt yy ai nn
-Étincelle ei tt in ss ai ll
-Étudiant ei tt uu dd yy an
-Éva ei vv aa
-Évian ei vv yy an
-Évin ei vv in
-Évêché ei vv ei ch ei
-Éyadéma ei yy aa dd ei mm aa
-Île ii ll
-Îles ii ll
-Öcalan au kk aa ll an
-Övp au vv ei pp ei
-Özkök au zz kk au kk
 à-coups aa kk ou
 à-côtés aa kk oo tt ei
 à-peu-près aa pp ee pp rr ai
@@ -61134,3 +61069,19 @@ spö ai ss pp ei au
 ü u
 ÿ y
 ç c
+À A
+Â A
+Ä A
+É E
+È E
+Ê E
+Ë E
+Î I
+Ï I
+Ô O
+Ö O
+Ù U
+Û U
+Ü U
+Ÿ Y
+Ç C
