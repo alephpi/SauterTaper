@@ -136,4 +136,6 @@ ui-tests/playwright-report
 ui-tests/.yarn/*
 ui-tests/.pnp.*
 
-*Lexique383*
+**/Lexique383/**
+!encoding.csv
+!Lexique383.tsv
