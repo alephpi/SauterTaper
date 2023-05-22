@@ -1,0 +1,44 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: sauter_taper
+  name: Sauter Taper
+  version:  "0.1"
+  author:
+    - 润心 <maosicheng98@gmail.com>
+  description:
+    音节化法语输入方案。
+
+engine:
+  processors:
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - table_translator
+
+translator:
+  dictionary: sauter_taper_fr
+  enable_sentence: false
+  # enable_completion: false
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+
+punctuator:
+  use_space: true
+  # import_preset: default
+  half_shape:
+    ' ': {commit: ' '}
+key_binder:
+  import_preset: default
